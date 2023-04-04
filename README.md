@@ -6,4 +6,7 @@
 <h4>Connect with me: https://www.linkedin.com/in/leandro-sabus-a3873515a/</h4>
 
 <h2>My skills</h2>
-https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+  alt=""
+/>
