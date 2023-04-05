@@ -6,6 +6,5 @@
 
 <h4>☑️ Connect with me: https://www.linkedin.com/in/leandro-sabus-a3873515a/  </h4>
 
-
-
+<a href="https://iconos8.es/icon/54502/logo"></a>
 
