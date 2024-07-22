@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Itecnis SRL**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-leandrosabus.netlify.app/](https://portfolio-leandrosabus.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-leandrosabus.netlify.app/](https://leandrosabusdev.netlify.app/))
 
 - 💬 Ask me about **React, Javascript, UX**
 
