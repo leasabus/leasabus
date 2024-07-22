@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Itecnis SRL**
 
-- 🌱 I’m currently learning **Typescript, NodeJS, Express**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-leandrosabus.netlify.app/](https://portfolio-leandrosabus.netlify.app/)
 
 - 💬 Ask me about **React, Javascript, UX**
