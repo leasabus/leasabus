@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Sabus</h1>
 <h3 align="center">Front end developer 💻</h3>
 
-- 🔭 I’m currently working on **Itecnis SRL**
+- 🔭 I’m currently working on **Prodwise SRL**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-leandrosabus.netlify.app/](https://leandrosabusdev.netlify.app/))
 
